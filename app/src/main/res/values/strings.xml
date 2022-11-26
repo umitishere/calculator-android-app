@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator Application</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="subtractionButton">x</string>
+    <string name="divisionButton">/</string>
+    <string name="number">0</string>
+    <string name="result">0</string>
+</resources>
